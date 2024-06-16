@@ -293,6 +293,10 @@ iframe {
     height: 330px;
   }
   .up {
-    display: none;
+    right: 30px;
+    bottom: 40px;
+  }
+  .up:hover {
+    background-color: gray;
   }
 }/*# sourceMappingURL=style.css.map */

@@ -303,7 +303,11 @@ iframe{
     }
 
     .up{
-        display: none;
+        right: 30px;
+        bottom: 40px;
+        &:hover{
+            background-color: gray;
+        }
     }
 
 }
