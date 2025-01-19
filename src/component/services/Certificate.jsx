@@ -57,13 +57,13 @@ const Certificate = () => {
             record of a person's death, required for legal and administrative
             purposes.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Application assistance</li>
             <li className="text-muted">Documentation preparation</li>
             <li className="text-muted">Submission and follow-up</li>
             <li className="text-muted">Accurate record issuance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of death (hospital or medical certificate)</li>
@@ -101,13 +101,13 @@ const Certificate = () => {
             a child's birth, essential for identity verification and various
             official processes.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Application guidance</li>
             <li className="text-muted">Document preparation</li>
             <li className="text-muted">Submission and follow-up</li>
             <li className="text-muted">Accurate record issuance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Hospital birth report</li>
@@ -144,13 +144,13 @@ const Certificate = () => {
             document certifying property ownership, necessary for legal and
             transaction purposes.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Application guidance</li>
             <li className="text-muted">Document preparation</li>
             <li className="text-muted">Submission and follow-up</li>
             <li className="text-muted">Accurate certification</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of ownership (title deed)</li>
@@ -189,13 +189,13 @@ const Certificate = () => {
             essential for property transactions and legal verification in
             certain regions.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Record retrieval assistance</li>
             <li className="text-muted">Document verification</li>
             <li className="text-muted">Submission and follow-up</li>
             <li className="text-muted">Accurate land record issuance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of ownership</li>
@@ -232,13 +232,13 @@ const Certificate = () => {
             record of a marriage, required for legal, administrative, and
             personal purposes.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Application assistance</li>
             <li className="text-muted">Document preparation</li>
             <li className="text-muted">Submission and follow-up</li>
             <li className="text-muted">Accurate record issuance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">

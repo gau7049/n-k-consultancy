@@ -57,13 +57,13 @@ const Income_tax = () => {
             accurately and on time, helping you comply with tax laws and
             maximize your refunds.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Accurate tax calculations</li>
             <li className="text-muted">Timely filing</li>
             <li className="text-muted">Maximized refunds</li>
             <li className="text-muted">Expert advice</li>
-          </ol>
+          </ol> */}
           <strong>Document Requirements</strong>
           <ol>
             <li className="text-muted">PAN card</li>
@@ -103,13 +103,13 @@ const Income_tax = () => {
             calculation, and filing of Goods and Services Tax, ensuring
             compliance with GST laws and regulations.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">GST Registration</li>
             <li className="text-muted">Monthly/Quarterly/Annual filing</li>
             <li className="text-muted">Input Tax Credit calculation</li>
             <li className="text-muted">GST Consultancy</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">PAN Card of business</li>
@@ -147,13 +147,13 @@ const Income_tax = () => {
             Deducted at Source, ensuring that you meet your TDS obligations
             accurately and timely.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">TDS Calculation</li>
             <li className="text-muted">TDS Return filing</li>
             <li className="text-muted">TDS Certificate issuance</li>
             <li className="text-muted">Compliance with TDS provisions</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">TAN (Tax Deduction and Collection Account Number)</li>
@@ -192,13 +192,13 @@ const Income_tax = () => {
             accounting solutions to keep your financial records accurate and
             up-to-date.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Bookkeeping</li>
             <li className="text-muted">Financial statement preparation</li>
             <li className="text-muted">Budgeting and forecasting</li>
             <li className="text-muted">Payroll management</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Bank statements</li>

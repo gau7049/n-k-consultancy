@@ -58,13 +58,13 @@ const CivilLaw = () => {
             binding document outlining the terms and conditions between
             landlords and tenants.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Drafting and review</li>
             <li className="text-muted">Legal compliance</li>
             <li className="text-muted">Customizable terms</li>
             <li className="text-muted">Clear and concise agreements</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of property ownership</li>
@@ -103,13 +103,13 @@ const CivilLaw = () => {
             statements used for various legal purposes, including personal and
             business matters.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Drafting of affidavits</li>
             <li className="text-muted">Notarization assistance</li>
             <li className="text-muted">Legal advice</li>
             <li className="text-muted">Customizable content</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">ID proof of affiant</li>
@@ -144,13 +144,13 @@ const CivilLaw = () => {
             Our Sale Deed service ensures the creation of a legal document that
             transfers property ownership from the seller to the buyer.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Drafting and review</li>
             <li className="text-muted">Legal compliance</li>
             <li className="text-muted">Accurate transfer of ownership</li>
             <li className="text-muted">Customizable terms</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of property ownership (title deed)</li>
@@ -189,13 +189,13 @@ const CivilLaw = () => {
             contract for the sale of property, outlining the terms before the
             final Sale Deed.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Drafting and review</li>
             <li className="text-muted">Legal compliance</li>
             <li className="text-muted">Clear terms and conditions</li>
             <li className="text-muted">Preliminary contract</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of property ownership</li>
@@ -232,13 +232,13 @@ const CivilLaw = () => {
             authorizes another person to act on your behalf in various legal and
             financial matters.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Drafting and review</li>
             <li className="text-muted">Legal compliance</li>
             <li className="text-muted">Customizable authority</li>
             <li className="text-muted">Notarization assistance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">ID proof of the principal</li>
@@ -277,13 +277,13 @@ const CivilLaw = () => {
             and family background, often required for legal and personal
             purposes.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Drafting and review</li>
             <li className="text-muted">Verification of family history</li>
             <li className="text-muted">Legal compliance</li>
             <li className="text-muted">Accurate documentation</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">ID proof of the person requesting</li>

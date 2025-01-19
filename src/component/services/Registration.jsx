@@ -104,13 +104,13 @@ const Registration = () => {
             enterprises in obtaining the necessary certifications to avail
             various government benefits and schemes.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Eligibility assessment</li>
             <li className="text-muted">Document verification</li>
             <li className="text-muted">Online application assistance</li>
             <li className="text-muted">Certification issuance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Aadhar Card of the applicant</li>
@@ -148,13 +148,13 @@ const Registration = () => {
             food business complies with safety standards and regulations,
             enabling you to operate legally.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Application guidance</li>
             <li className="text-muted">Document submission</li>
             <li className="text-muted">Inspection coordination</li>
             <li className="text-muted">License procurement</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">
@@ -198,13 +198,13 @@ const Registration = () => {
             obtaining the necessary licenses to operate in specific regions,
             ensuring compliance with local regulations.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Local regulation compliance</li>
             <li className="text-muted">Document preparation</li>
             <li className="text-muted">Application submission</li>
             <li className="text-muted">Follow-up and approval</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">
@@ -244,13 +244,13 @@ const Registration = () => {
             ease, handling all the legal and procedural requirements to get your
             business up and running..
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Company name reservation</li>
             <li className="text-muted">Incorporation document preparation</li>
             <li className="text-muted">Submission and follow-up</li>
             <li className="text-muted">Compliance with corporate laws</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Director Identification Number (DIN)</li>

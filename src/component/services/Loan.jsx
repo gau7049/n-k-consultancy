@@ -34,7 +34,7 @@ const loan = () => {
 
       <div className="bg-white my-3 px-md-5 px-4 py-3">
         <h2>Loan Services</h2>
-        <p className="text-muted" className="text-muted">
+        <p className="text-muted">
           Our firm offers a range of loan services tailored to meet your unique
           financial needs. With extensive experience in the legal aspects of
           loan agreements, we ensure that you are well-informed and protected
@@ -51,18 +51,18 @@ const loan = () => {
           <div className="d-block d-md-none text-center my-5">
             <img src={personal} alt="" />
           </div>
-          <p className="text-muted" className="text-muted">
+          <p className="text-muted">
             A Personal Loan can be used for a variety of personal expenses such
             as medical bills, home renovations, or debt consolidation. We assist
             you in securing the best personal loan terms, ensuring you
             understand your rights and obligations.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Quick and easy application process</li>
             <li className="text-muted">Flexible repayment options</li>
             <li className="text-muted">Competitive interest rates</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of identity (Passport, Driver's License, Aadhar Card)</li>
@@ -95,18 +95,18 @@ const loan = () => {
           <div className="d-block d-md-none text-center my-5">
             <img src={business} alt="" />
           </div>
-          <p className="text-muted" className="text-muted">
+          <p className="text-muted">
             Whether you’re starting a new business or expanding an existing one,
             a Business Loan can provide the necessary capital. Our legal
             advisors help you navigate the complexities of business loan
             agreements to ensure the best outcome for your enterprise.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Customized loan amounts based on business needs</li>
             <li className="text-muted">Long-term and short-term loan options</li>
             <li className="text-muted">Support in drafting and reviewing loan agreements</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">
@@ -143,19 +143,19 @@ const loan = () => {
           <div className="d-block d-md-none text-center my-5">
             <img src={home} alt="" />
           </div>
-          <p className="text-muted" className="text-muted">
+          <p className="text-muted">
             Purchasing a home is a significant investment. We guide you through
             the entire home loan process, from application to closing, making
             sure all legal aspects are covered.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Expert advice on loan eligibility and documentation</li>
             <li className="text-muted">Assistance with fixed and variable interest rate loans</li>
             <li className="text-muted">
               Legal support during property purchase and mortgage registration
             </li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of identity and address</li>
@@ -189,17 +189,17 @@ const loan = () => {
           <div className="d-block d-md-none text-center my-5">
             <img src={vehicle} alt="" />
           </div>
-          <p className="text-muted" className="text-muted">
+          <p className="text-muted">
             Looking to buy a new or used vehicle? Our legal team provides
             comprehensive support for vehicle loans, ensuring you get the best
             deal with transparent terms and conditions.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Loans for new and used vehicles</li>
             <li className="text-muted">Low interest rates and flexible repayment plans</li>
             <li className="text-muted">Legal assistance with loan documentation and compliance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of identity and address</li>
@@ -231,12 +231,12 @@ const loan = () => {
           <div className="d-block d-md-none text-center my-5">
             <img src={lap} alt="" />
           </div>
-          <p className="text-muted" className="text-muted">
+          <p className="text-muted">
             Unlock the value of your property with a Loan Against Property. We
             help you understand the intricacies of LAP loans, ensuring you
             leverage your property’s value effectively.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">High loan amounts based on property value</li>
             <li className="text-muted">Flexible tenure and competitive interest rates</li>
@@ -244,7 +244,7 @@ const loan = () => {
               Comprehensive legal advice on property valuation and loan
               agreements
             </li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of identity and address</li>
@@ -278,7 +278,7 @@ const loan = () => {
           <div className="d-block d-md-none text-center my-5">
             <img src={mortage} alt="" />
           </div>
-          <p className="text-muted" className="text-muted">
+          <p className="text-muted">
             A Mortgage Loan can be a practical solution for large financial
             needs. Our legal experts ensure you are fully aware of the terms and
             conditions, helping you make informed decisions.A Personal Loan can
@@ -287,12 +287,12 @@ const loan = () => {
             the best personal loan terms, ensuring you understand your rights
             and obligations.
           </p>
-          <strong>Key Features</strong>
+          {/* <strong>Key Features</strong>
           <ol>
             <li className="text-muted">Detailed analysis of mortgage loan options</li>
             <li className="text-muted">Legal support in understanding and negotiating terms</li>
             <li className="text-muted">Assistance with documentation and regulatory compliance</li>
-          </ol>
+          </ol> */}
           <strong>Major Document Requirements</strong>
           <ol>
             <li className="text-muted">Proof of identity and address</li>

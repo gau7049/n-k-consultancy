@@ -4,7 +4,7 @@ import ceo from "../../assets/nilesh_bhai.jpeg";
 const Team = () => {
   return (
     <div id="our-team">
-      <h2>Our Team</h2>
+      <h2>Meet Our Team</h2>
       <p className="text-muted">
         At N & K. Consultancy, our strength lies in our team of dedicated and
         experienced legal professionals. Each member brings unique expertise and
